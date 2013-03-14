@@ -156,7 +156,7 @@
 
 
 " Syntastic for catching syntax errors on save
-  Bundle "git://github.com/scrooloose/syntastic.git"
+  Bundle "git://github.com/kpfefferle/syntastic.git"
     let g:syntastic_enable_signs=1
     let g:syntastic_quiet_warnings=1
     " syntastic is too slow for haml and sass
