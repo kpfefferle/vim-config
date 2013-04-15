@@ -49,7 +49,7 @@
     au BufNewFile,BufRead *.mustache,*.handlebars,*.hbs set filetype=mustache
 
 " Slim
-  Bundle "git://github.com/KPfefferle/vim-slim.git"
+  Bundle "git://github.com/kpfefferle/vim-slim.git"
     au BufNewFile,BufRead *.slim set filetype=slim
 
 " Less
